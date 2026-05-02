@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 I am a **Backend Developer** passionate about building scalable backend systems, secure APIs, and real-time applications.  
-I enjoy solving problems, designing clean architectures, and writing maintainable backend code using modern technologies, Currently working as a **Backend Developer**, Experienced with **Node.js, Express.js, NestJS**
+I enjoy solving problems, designing clean architectures, and writing maintainable backend code using modern technologies, Currently working as a **Backend Developer**, Experienced with **Node.js, FastApi, Express.js, NestJS**
 
 
 ---
